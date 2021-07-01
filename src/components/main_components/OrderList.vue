@@ -21,7 +21,7 @@ export default defineComponent({
       type: String,
     },
     orders: {
-      type: [],
+      type: Array,
     },
   },
   methods: {
